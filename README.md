@@ -21,14 +21,14 @@ Para responder a essas perguntas, foi desenvolvido um relatório detalhado dispo
 ![image](https://github.com/Gocjunior/Monitoramento_Les-es/assets/118209238/2b5e94a3-4416-4b43-93ae-499001cdd2a8)
 
 Resultados Obtidos:
-•	Lesões mais comuns: As lesões de posterior de coxa foram as mais frequentes.
-•	Posições mais afetadas: Atacantes foram os jogadores que mais sofreram lesões.
-•	Mecanismos das lesões: Corridas e overuse foram os principais causadores de lesões.
-•	Ocorrência das lesões: As lesões ocorreram mais frequentemente durante os treinos do que nos jogos.
+• Lesões mais comuns: As lesões de posterior de coxa foram as mais frequentes.
+• Posições mais afetadas: Os atacantes foram os jogadores que mais sofreram lesões.
+• Mecanismos das lesões: Corridas e overuse foram identificados como os principais mecanismos causadores das lesões.
+• Ocorrência das lesões: A maioria das lesões ocorreu durante os treinos, e não nos jogos.
 
-Também foi criado um dashboard com informações individuais para cada atleta. O dashboar permitia que a comissão técnica visualize diariamente o tempo de afastamento e o tempo de tratamento de cada atleta. 
+Além disso, foi desenvolvido um dashboard individual para cada atleta, permitindo que a comissão técnica visualizasse diariamente o tempo de afastamento e o tempo de tratamento de cada jogador. Esse recurso facilitou o acompanhamento contínuo e a tomada de decisões mais precisas. 
 
 ![image](https://github.com/Gocjunior/Monitoramento_Les-es/assets/118209238/4fca6ac2-0b25-420a-a033-c5e95a8a2e32)
 
-As informações contidas no relatório podem ser utilizadas para ajudar no planejamento do treinamento, visando a prevenção das lesões mais comuns. Compreender o tempo médio de tratamento de acordo com a lesão até o retorno ao jogo. Além disso, os dados podem auxiliar a comissão técnica a tomar decisões sobre a permanência de um atleta na equipe, considerando seu histórico de lesões.
+As informações apresentadas no relatório podem ser utilizadas para aprimorar o planejamento do treinamento, direcionando ações específicas para a prevenção das lesões mais comuns. Também permitem compreender o tempo médio de tratamento de cada tipo de lesão até o retorno do atleta aos jogos. Além disso, esses dados auxiliam a comissão técnica na tomada de decisões sobre a permanência de um jogador na equipe, considerando seu histórico de lesões e sua disponibilidade ao longo da temporada.
 
