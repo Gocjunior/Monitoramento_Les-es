@@ -1,8 +1,8 @@
 # Monitoramento_Lesoes
 Relatório de Monitoramento de Lesões no futebol.
-Foi utilizado o Power BI para confeccção do relatório.
+Foi utilizado o Power BI para confecção do relatório.
 
-Durante o tempo que trabalhei no futebol, uma das minhas responsabilidades era monitorar as lesões da equipe. Para realizar essa tarefa de forma eficaz, foi criado um relatório abrangente que responde a várias perguntas cruciais sobre as ocorrencias das lesões dentro da equipe. 
+Durante o tempo que trabalhei no futebol, uma das minhas responsabilidades era monitorar as lesões da equipe. Para realizar essa tarefa de forma eficaz, foi criado um relatório abrangente que responde a várias perguntas cruciais sobre as ocorrências das lesões dentro da equipe. 
 
 Objetivos do Relatório:
 
@@ -16,7 +16,7 @@ Objetivos do Relatório:
 8.	As lesões ocorrem mais nos treinos ou nos jogos?
 9.	Quais atletas têm maior tempo de afastamento durante um determinado período da temporada?
 
-Para responder a essas perguntas, foi deselvolvido um relatório detalhado que ficava disponível para a comissão técnica. Os dados sobre as lesões eram coletados em uma planilha, que era atualizada constantemente. Os relatórios foram criados utilizando o Power BI e compartilhados com a comissão técnica para acesso aos dados.
+Para responder a essas perguntas, foi desenvolvido um relatório detalhado disponibilizado para toda a comissão técnica. Os dados sobre lesões eram registrados em uma planilha que era atualizada continuamente. Com base nessas informações, os relatórios foram elaborados no Power BI e compartilhados com a comissão técnica, facilitando o acesso e a análise dos dados em tempo real.
 
 ![image](https://github.com/Gocjunior/Monitoramento_Les-es/assets/118209238/2b5e94a3-4416-4b43-93ae-499001cdd2a8)
 
